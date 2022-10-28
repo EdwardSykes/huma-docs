@@ -6,7 +6,7 @@ title: Creating a new Deployment
 # Creating a new Deployment
 **User**: Super Admin, Huma Support, Account Manager, Organisation Owner, Organisation Editor.
 
-Once you have set up your organisation, you can create as many deployments as you need within the Admin Portal. Each deployment will create a version of the Clinician Portal and Huma App with its own distinct characteristics. 
+Once you have set up your Organisation, you can create as many deployments as you need within the Admin Portal. Each deployment will create a version of the Clinician Portal and Huma App with its own distinct characteristics. 
 ## How it works​
 To configure a new deployment, go to the **Deployments** tab in the admin portal and click **New deployment**.
 
